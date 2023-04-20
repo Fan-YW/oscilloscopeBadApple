@@ -1,4 +1,0 @@
-# oscilloscopeVideoPlayer
-Play Videos on Oscilloscope
-可以将视频转换为wav文件在示波器上播放
-把需要播放的原视频放入指定文件夹然后运行Matlab会生成wav文件
